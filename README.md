@@ -53,5 +53,5 @@ Happy guessing! 🧠
 
 ```
 
-Let me know if you want to add more features like difficulty levels, a restart option, or high score tracking!
+
 ```
